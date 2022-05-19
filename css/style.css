@@ -579,6 +579,7 @@ main {
 
   .card-box .contenido-compra .descripcion {
     padding-left: 0;
+    padding-right: 0;
   }
 }
 @media (max-width: 750px) and (min-width: 380px) {
@@ -594,6 +595,7 @@ main {
 
   .card-box .contenido-compra .descripcion {
     padding-left: 0;
+    padding-right: 0;
   }
 }
 /*Media queries del formulario*/
