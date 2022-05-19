@@ -576,6 +576,10 @@ main {
     width: 70px;
     height: 70px;
   }
+
+  .card-box .contenido-compra .descripcion {
+    padding-left: 0;
+  }
 }
 @media (max-width: 750px) and (min-width: 380px) {
   .card-box .imagen img {
@@ -586,6 +590,10 @@ main {
   .imagen-correo img {
     width: 70px;
     height: 70px;
+  }
+
+  .card-box .contenido-compra .descripcion {
+    padding-left: 0;
   }
 }
 /*Media queries del formulario*/
